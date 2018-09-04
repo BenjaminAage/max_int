@@ -7,5 +7,3 @@
 # 5. Leita að hæstu jákvæða tölugildið sem slegið hefur verið inn.
 # 6. Prenta út hæsta jákvæða töluna sem slegið var inn af notanda.:x
 
-
-
